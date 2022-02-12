@@ -1,0 +1,42 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Stylis T-shirt",
+            "price": "120",
+            "discount": "10",
+            "description": "Lorem is hndf jos fhkie adocujofk jksjdfoa."
+        }
+    ],
+
+    "catagory": ["T-shirt", "Jeans", "Shirt"],
+
+    "brands": ["Samsung", "Nokia", "Hp"],
+
+    "devs": [
+        {
+            "id" : 1,
+            "name" : "Md Mahir",
+            "age" : 23,
+            "skill" : "React developer",
+            "location" : "Tangail"
+
+        }
+    ],
+
+    "student"  :  [
+        {
+            "id"   :   1,
+            "name" : "Md Mahir",
+            "age" : 23,
+            "group" : "science",
+            "bn" : 45,
+            "en" : 85,
+            "math" : 65,
+            "s" : 45,
+            "ss" : 94,
+            "rel" : 78
+        }
+    ]
+     
+}

@@ -1,0 +1,14 @@
+{
+  "name": "devs",
+  "version": "1.0.0",
+  "description": "This api for products , devs and student result",
+  "main": "index.js",
+  "scripts": {
+    "mahir" : "json-server --watch db.json --port 9090"
+  },
+  "author": "Md Mahir",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
